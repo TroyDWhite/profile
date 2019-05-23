@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
+linkedin: troydwhite
+# facebook: myfacebook
 twitter: troydwhite
 # google: mygoogle
 instagram: troydwhite
 # pinterest: mypinterest
-linkedin: troydwhite
 # youtube: myyoutube
 # spotify: myspotify
 github: troydwhite
