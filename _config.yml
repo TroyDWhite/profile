@@ -1,23 +1,23 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Troy D. White
+bio: I help people build successful careers. Sometimes distracted by a maltese poodle.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Troy D. White's Professional Profile
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://media.licdn.com/dms/image/C4E03AQEb8SyVMM5-SQ/profile-displayphoto-shrink_200_200/0?e=1564012800&v=beta&t=qIfuAX51VikxlBIWr83eHlxEgAV5KWe63yVTdkGYT3g
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: troydwhite.org/resume
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+url: https://www.linkedin.com/in/troydwhite/
+# your url: https://www.linkedin.com/in/troydwhite/
 
 permalink: /:title/
 
@@ -34,24 +34,24 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+twitter: troydwhite
 # google: mygoogle
-# instagram: myinstagram
+instagram: troydwhite
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: troydwhite
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: troydwhite
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: troydwhite@gmail.com
 
 authors:
     johndoe:
